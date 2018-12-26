@@ -1,2 +1,2 @@
-print('hello')
-stroka = 'random' 
+print('hello'))
+stroka = 'random'
